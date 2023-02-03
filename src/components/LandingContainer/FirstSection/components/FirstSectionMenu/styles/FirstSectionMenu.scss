@@ -1,0 +1,19 @@
+.first-section__menu-items-holder {
+  list-style: none;
+  width: 86%;
+  .first-section__menu-items {
+    opacity: 0.902;
+    font-size: 11px;
+    letter-spacing: 6px;
+    line-height: 66px;
+    text-transform: uppercase;
+    color: #0b0c11;
+    font-weight: 700;
+    font-family: "League Spartan";
+    cursor: pointer;
+    &:hover {
+      color: #2f3b72;
+      font-weight: 900;
+    }
+  }
+}

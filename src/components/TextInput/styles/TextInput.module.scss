@@ -1,0 +1,13 @@
+.inputStyles {
+  width: 550px;
+  height: 0.25rem;
+  padding: 1.5rem;
+  border: none;
+  background-color: #f5f5f5 !important;
+  &::placeholder {
+    color: #000;
+  }
+  &:focus {
+    outline: "none";
+  }
+}

@@ -1,0 +1,27 @@
+.subscribeSectionStyle {
+  background-image: url("../../../../../public/images/bg2.png");
+  background-repeat: no-repeat;
+  background-position: bottom;
+  margin-top: -24rem;
+  padding-top: 24rem;
+  z-index: 0;
+  height: 1300px;
+  h3 {
+    font-size: 2.25rem;
+  }
+  p {
+    width: 550px;
+    margin-top: 1.75rem;
+  }
+}
+
+.subscribeSectionBtnStyle {
+  background-image: url("../../../../../public/images/submit.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-color: #5da8ef !important;
+  border-color: #5da8ef;
+  border: none;
+  width: 3rem;
+  height: 3rem;
+}
